@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":"AAEA,EACI,SACJ,CAEA,IACI,WACJ","sources":["webpack://ch01/./src/css/style.css"],"sourcesContent":["@charset \"UTF-8\";\r\n\r\np{\r\n    color:red;\r\n}\r\n\r\ndiv{\r\n    width:100px;\r\n}"],"names":[],"sourceRoot":""}
